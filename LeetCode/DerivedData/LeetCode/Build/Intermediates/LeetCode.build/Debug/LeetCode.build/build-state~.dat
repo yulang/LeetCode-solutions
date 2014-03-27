@@ -1,0 +1,188 @@
+TLeetCode
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526858D5000000000000044C
+t1382570197
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053241C1600000000000001DE
+t1394875414
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053241C180000000000000ADC
+t1394875416
+s2780
+
+N/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o
+t2
+s0
+
+N/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o
+t2
+s0
+
+N/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp
+c000000005333072F00000000000001BB
+t1395853103
+s443
+
+N/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp
+c00000000533304690000000000000110
+t1395852393
+s272
+
+N/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp
+c00000000533302E800000000000005CD
+t1395852008
+s1485
+
+CBuild AST from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp
+r0
+
+CBuild AST from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp
+r0
+
+CBuild AST from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/test.cpp
+r0
+
+CBuild AST from /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/main.cpp
+r0
+
+CBuild AST from /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies605999b53ee3b841^53cb9eb53ee3b841^---0#1#1#--18"Check dependencies36"F8AB26BA-ECD8-4522-909C-C1EFA3D72976-
+
+CCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s417545909.620972
+e417545910.184482
+r0
+xCompileC
+xDerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o
+x/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp
+d/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+o/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:19:13: error: no template named 'vector'; did you mean 'std::vector'?
+oint evalRPN(vector<string> &tokens);
+o            ^~~~~~
+o            std::vector
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:14:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/vector:481:29: note: 'std::vector' declared here
+oclass _LIBCPP_TYPE_VIS_ONLY vector
+o                            ^
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+o/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:19:20: error: unknown type name 'string'; did you mean 'std::string'?
+oint evalRPN(vector<string> &tokens);
+o                   ^~~~~~
+o                   std::string
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:189:65: note: 'std::string' declared here
+otypedef basic_string<char, char_traits<char>, allocator<char> > string;
+o                                                                ^
+o/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:11:13: error: no template named 'vector'; did you mean 'std::vector'?
+oint evalRPN(vector<string> &tokens) {
+o            ^~~~~~
+o            std::vector
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:14:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/vector:481:29: note: 'std::vector' declared here
+oclass _LIBCPP_TYPE_VIS_ONLY vector
+o                            ^
+o/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:11:20: error: unknown type name 'string'; did you mean 'std::string'?
+oint evalRPN(vector<string> &tokens) {
+o                   ^~~~~~
+o                   std::string
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:189:65: note: 'std::string' declared here
+otypedef basic_string<char, char_traits<char>, allocator<char> > string;
+o                                                                ^
+o/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:16:20: error: unknown type name 'string'; did you mean 'std::string'?
+oint checkTokenType(string s) {
+o                   ^~~~~~
+o                   std::string
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:
+oIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:12:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:189:65: note: 'std::string' declared here
+otypedef basic_string<char, char_traits<char>, allocator<char> > string;
+o                                                                ^
+o5 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp250"CompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o LeetCode/evaluate_reverse_polish_notation.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler9e0b9fb53ee3b841^f4352fb63ee3b841^-4778"In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:19:13: error: no template named 'vector'; did you mean 'std::vector'?int evalRPN(vector<string> &tokens);            ^~~~~~            std::vectorIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:14:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/vector:481:29: note: 'std::vector' declared hereclass _LIBCPP_TYPE_VIS_ONLY vector                            ^In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:19:20: error: unknown type name 'string'; did you mean 'std::string'?int evalRPN(vector<string> &tokens);                   ^~~~~~                   std::stringIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:12:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:189:65: note: 'std::string' declared heretypedef basic_string<char, char_traits<char>, allocator<char> > string;                                                                ^/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:11:13: error: no template named 'vector'; did you mean 'std::vector'?int evalRPN(vector<string> &tokens) {            ^~~~~~            std::vectorIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:14:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/vector:481:29: note: 'std::vector' declared hereclass _LIBCPP_TYPE_VIS_ONLY vector                            ^/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:11:20: error: unknown type name 'string'; did you mean 'std::string'?int evalRPN(vector<string> &tokens) {                   ^~~~~~                   std::stringIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:12:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:189:65: note: 'std::string' declared heretypedef basic_string<char, char_traits<char>, allocator<char> > string;                                                                ^/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:16:20: error: unknown type name 'string'; did you mean 'std::string'?int checkTokenType(string s) {                   ^~~~~~                   std::stringIn file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h:12:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iostream:38:In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/ios:215:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/iosfwd:189:65: note: 'std::string' declared heretypedef basic_string<char, char_traits<char>, allocator<char> > string;                                                                ^5 errors generated.5(36%IDEClangDiagnosticActivityLogMessage2@55"No template named 'vector'; did you mean 'std::vector'?-417545910#18446744073709551615#0#2(2@117"In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^8#9#8#9#164#0#21"Apple LLVM 5.0 Notice--2@27"'std::vector' declared here-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/vector0000000000000000^480#28#480#28#17162#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@97"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h0000000000000000^18#12#18#12#361#0#14"Semantic Issue1(3@97"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h0000000000000000^18#12#18#18#361#6#-2@55"Unknown type name 'string'; did you mean 'std::string'?-417545910#18446744073709551615#0#2(2@117"In file included from /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp:9:-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^8#9#8#9#164#0#21"Apple LLVM 5.0 Notice--2@27"'std::string' declared here-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iosfwd0000000000000000^188#64#188#64#7470#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@97"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h0000000000000000^18#19#18#19#368#0#14"Semantic Issue1(3@97"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.h0000000000000000^18#19#18#25#368#6#-2@55"No template named 'vector'; did you mean 'std::vector'?-417545910#18446744073709551615#0#1(2@27"'std::vector' declared here-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/vector0000000000000000^480#28#480#28#17162#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^10#12#10#12#214#0#14"Semantic Issue1(3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^10#12#10#18#214#6#-2@55"Unknown type name 'string'; did you mean 'std::string'?-417545910#18446744073709551615#0#1(2@27"'std::string' declared here-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iosfwd0000000000000000^188#64#188#64#7470#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^10#19#10#19#221#0#14"Semantic Issue1(3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^10#19#10#25#221#6#-2@55"Unknown type name 'string'; did you mean 'std::string'?-417545910#18446744073709551615#0#1(2@27"'std::string' declared here-417545910#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@107"file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/iosfwd0000000000000000^188#64#188#64#7470#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^15#19#15#19#316#0#14"Semantic Issue1(3@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^15#19#15#25#316#6#-0#0#1#-19%DVTDocumentLocation4@99"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp0000000000000000^3472"CompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o LeetCode/evaluate_reverse_polish_notation.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/YuLang/Project/Github/LeetCode/LeetCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-generated-files.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-own-target-headers.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-all-target-headers.hmap -iquote /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-project-headers.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/DerivedSources/x86_64 -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/DerivedSources -F/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.d --serialize-diagnostics /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.dia -c /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/evaluate_reverse_polish_notation.cpp -o /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/evaluate_reverse_polish_notation.o36"A1430815-CDFC-4848-A459-ED62716B5DCC-
+b7EF3E92E-3FBF-4AFE-BDCF-BEE46626D003
+
+CCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main-4B6F8162024D973D.o /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main-7AD0CA0E76201E1E.o /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s417545909.621350
+e417545910.150043
+r1
+xCompileC
+xDerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o
+x/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp194"CompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o LeetCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler71219fb53ee3b841^8c6926b63ee3b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp0000000000000000^3304"CompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o LeetCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/YuLang/Project/Github/LeetCode/LeetCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-generated-files.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-own-target-headers.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-all-target-headers.hmap -iquote /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-project-headers.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/DerivedSources/x86_64 -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/DerivedSources -F/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.dia -c /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/main.cpp -o /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/main.o36"1D3C269E-0BE1-4931-976A-9E7DBEE66D3C-
+b7EF3E92E-3FBF-4AFE-BDCF-BEE46626D003
+
+CCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s417545909.620828
+e417545910.285320
+r1
+xCompileC
+xDerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o
+x/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp
+o/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp:48:14: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o    int size=str.size();
+o        ~~~~ ^~~~~~~~~~
+o/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp:63:33: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]
+o            i=pos+pattern.size()-1;
+o             ~~~~~~~~~~~~~~~~~~~^~
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp317"CompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilera0ff9eb53ee3b841^4a0d49b63ee3b841^-614"/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp:48:14: warning: implicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]    int size=str.size();        ~~~~ ^~~~~~~~~~/Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp:63:33: warning: implicit conversion loses integer precision: 'unsigned long' to 'int' [-Wshorten-64-to-32]            i=pos+pattern.size()-1;             ~~~~~~~~~~~~~~~~~~~^~2 warnings generated.-0#0#1#-19%DVTDocumentLocation2@126"file:///Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp0000000000000000^3545"CompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/YuLang/Project/Github/LeetCode/LeetCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-generated-files.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-own-target-headers.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-all-target-headers.hmap -iquote /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/LeetCode-project-headers.hmap -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/DerivedSources/x86_64 -I/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/DerivedSources -F/Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.d --serialize-diagnostics /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.dia -c /Users/YuLang/Project/Github/LeetCode/reverse_words_in_a_string/reverse_words_in_a_string/reverse_words_in_a_string.cpp -o /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/reverse_words_in_a_string.o36"4D25D5D0-3C17-45E8-B4CF-499A06D964BF-
+b7EF3E92E-3FBF-4AFE-BDCF-BEE46626D003
+
+CCompileC DerivedData/LeetCode/Build/Intermediates/LeetCode.build/Debug/LeetCode.build/Objects-normal/x86_64/test.o /Users/YuLang/Project/Github/LeetCode/LeetCode/LeetCode/test.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/YuLang/Project/Github/LeetCode/LeetCode/DerivedData/LeetCode/Build/Products/Debug/LeetCode normal x86_64
+r0
+
